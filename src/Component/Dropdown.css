@@ -1,0 +1,9 @@
+.dropdownContainer{height: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+    background-color: mediumvioletred;
+}
+#selectList{
+    width: 200px;
+    height: 25px;
+}
